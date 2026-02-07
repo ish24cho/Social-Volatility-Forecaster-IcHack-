@@ -1,0 +1,2 @@
+date,risk_7d_prob,risk_7d,event_type_7d,event_type_7d_name,social_vol_7d,risk_14d_prob,risk_14d,event_type_14d,event_type_14d_name,social_vol_14d,risk_30d_prob,risk_30d,event_type_30d,event_type_30d_name,social_vol_30d
+2025-12-31,0.0,0,0,crisis,0.4975461921623525,0.0,0,1,geopolitics,0.5061924214721039,0.0,0,1,geopolitics,0.4973685156300029
